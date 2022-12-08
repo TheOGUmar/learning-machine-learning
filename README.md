@@ -1,2 +1,0 @@
-# learning-machine-learning
-randn
